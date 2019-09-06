@@ -1,0 +1,53 @@
+Question Paper 
+Lesson included are ['Vectors, Matrices, and Arrays', 'Loading Data', 'Data Wrangling', 'Handling Numerical Data', 'Handling Categorical Data', 'Handling Text']
+
+Section A
+Calculating the Determinant
+Creating a Sparse Matrix
+Finding the Maximum and Minimum Values
+Getting the Diagonal of a Matrix
+Loading an Excel File
+Creating a Vector
+Reshaping Arrays
+Adding and Subtracting Matrices
+Multiplying Matrices
+Selecting Rows Based on Conditionals
+Finding the Rank of a Matrix
+Tokenizing Text
+Looping Over a Column
+Calculating the Trace of a Matrix
+Loading a CSV File
+Inverting a Matrix
+Flattening a Matrix
+Loading a JSON File
+Creating a Data Frame
+
+
+Section B
+Replacing Values
+Generating Polynomial and Interaction Features
+Selecting Elements
+Applying a Function Over All Elements in a Column
+Encoding Dictionaries of Features
+Removing Punctuation
+Deleting a Row
+Loading a Sample Dataset
+Calculating the Average, Variance, and Standard Deviation
+Finding Unique Values
+Encoding Text as a Bag of Words
+Describing the Data
+
+
+Section C
+Weighting Word Importance
+Discretizating Features
+Encoding Nominal Categorical Features
+Deleting Observations with Missing Values
+Grouping Rows by Time
+Generating Random Values
+
+
+Section D
+Imputing Missing Values
+Cleaning Text
+Detecting Outliers
